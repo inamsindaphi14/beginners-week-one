@@ -1,0 +1,16 @@
+p{
+  color: purple;
+  font-family: fantasy;
+
+}
+body {
+  background-color: pink;
+}
+
+li#first{
+  background-color: red;
+}
+
+li.butterfly{
+  background-color: yellow;
+}
